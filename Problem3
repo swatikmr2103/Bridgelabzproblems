@@ -1,4 +1,4 @@
- prob 2) Move Files From one folder to the respective folders.
+ prob 3) Move Files From one folder to the respective folders.
 #! /bin/bash
 
 for file in `ls *.txt`;
